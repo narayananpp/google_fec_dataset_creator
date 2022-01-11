@@ -24,7 +24,7 @@ As an example, let us assume:
   > valid_indexes = dg.create_sliced_images(faces_folder, start_index, end_index)
   ```
   
-  **Get face images directly from all_output_folder**
+  **Get face images directly from images_folder**
   ```
   > dg = GoogleFECdatasetCreator(input_folder)
   > valid_indexes = dg.create_sliced_images_from_folder(images_folder,
