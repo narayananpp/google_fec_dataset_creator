@@ -8,7 +8,7 @@ preparing the data. This SDK is intended to get the image dataset from **Google 
 ## Usage
 
 As an example, let us assume:
-* **input_folder** is the folder in which the CSV file of  is stored.
+* **input_folder** is the folder in which the Google face expression comparison csv dataset is stored.
 * **images_folder** is the folder which saves full images.
 * **faces_folder** is the folder which saves only the face images.
     > We use the bounding box information to slice images faces.
